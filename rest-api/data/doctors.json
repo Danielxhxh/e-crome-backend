@@ -1,0 +1,32 @@
+[{
+  "_id": 1,
+  "email": "paolo_rossi@uniroma2.it",
+  "user": "paolo_rossi",
+  "password" : "$2a$12$8Vm.9dIy4kc9bZW7W7gyzuB9OS71JSjrhRbt6NTXc5Vt/I6PjJWY6",
+  "attributi": ["Doctors","Allied health professionals","Other staff"]
+},
+{
+  "_id": 2,
+  "email": "giacomo_verdi@uniroma2.it",
+  "user": "giacomo_verdi",
+  "password" : "$2a$12$8Vm.9dIy4kc9bZW7W7gyzuB9OS71JSjrhRbt6NTXc5Vt/I6PjJWY6",
+  "attributi": ["Nurses","Other staff"]
+},{
+  "_id": 3,
+  "email": "matteo_rossi@uniroma2.it",
+  "user": "matteo_rossi",
+  "password" : "$2a$12$8Vm.9dIy4kc9bZW7W7gyzuB9OS71JSjrhRbt6NTXc5Vt/I6PjJWY6",
+  "attributi": ["Doctors","Allied health professionals"]
+},{
+  "_id": 4,
+  "email": "simone_bianchi@uniroma2.it",
+  "user": "simone_bianchi",
+  "password" : "$2a$12$8Vm.9dIy4kc9bZW7W7gyzuB9OS71JSjrhRbt6NTXc5Vt/I6PjJWY6",
+  "attributi": ["Nurses","Allied health professionals"]
+},{
+  "_id": 5,
+  "email": "luca_bianchi@uniroma2.it",
+  "user": "luca_bianchi",
+  "password" : "$2a$12$8Vm.9dIy4kc9bZW7W7gyzuB9OS71JSjrhRbt6NTXc5Vt/I6PjJWY6",
+  "attributi": ["Other staff"]
+}]
